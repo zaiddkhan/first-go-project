@@ -291,6 +291,734 @@
           </option>
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159174632" />
+          <option name="id" value="55d27686-f91a-4af0-a2b0-7815e01cbbd5" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IiJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;&quot;&#10;}" />
+              <option name="code" value="400" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:32:54 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="55d27686-f91a-4af0-a2b0-7815e01cbbd5" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;&quot;}" />
+              <option name="size" value="12" />
+              <option name="time" value="1" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159176196" />
+          <option name="id" value="5992c226-7b5c-44c7-9e31-44c31b9a01d9" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IiJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;&quot;&#10;}" />
+              <option name="code" value="400" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:32:56 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5992c226-7b5c-44c7-9e31-44c31b9a01d9" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;&quot;}" />
+              <option name="size" value="12" />
+              <option name="time" value="10" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159206088" />
+          <option name="id" value="a9408eb2-ca14-4bfb-9b8b-0407e4c24c88" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IiJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:33:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a9408eb2-ca14-4bfb-9b8b-0407e4c24c88" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;&quot;}" />
+              <option name="size" value="12" />
+              <option name="time" value="23" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159257539" />
+          <option name="id" value="3461bdf2-a9b4-4dd8-a7cd-1327a03073f0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IiJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:34:17 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3461bdf2-a9b4-4dd8-a7cd-1327a03073f0" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;&quot;}" />
+              <option name="size" value="12" />
+              <option name="time" value="43" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159258790" />
+          <option name="id" value="acc4d2c5-f9c5-4a96-92ef-a3d4cc0d318c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IiJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:34:18 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="acc4d2c5-f9c5-4a96-92ef-a3d4cc0d318c" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;&quot;}" />
+              <option name="size" value="12" />
+              <option name="time" value="40" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159314954" />
+          <option name="id" value="6044923b-d5b2-4f73-a97e-acdab2d659db" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6InBxOiBTU0wgaXMgbm90IGVuYWJsZWQgb24gdGhlIHNlcnZlciJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;pq: SSL is not enabled on the server&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:35:14 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="48" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6044923b-d5b2-4f73-a97e-acdab2d659db" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;pq: SSL is not enabled on the server&quot;}" />
+              <option name="size" value="48" />
+              <option name="time" value="160" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722159346800" />
+          <option name="id" value="087929e6-558e-41e4-bade-d8c71ff12e20" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJJRCI6IjViNmRmZDdjLWFmMmMtNDE4Yy1iNDg5LWQwMmZkY2I1NjM5MSIsIkNyZWF0ZWRBdCI6IjIwMjQtMDctMjhUMDk6MzU6NDYuNzE1MzhaIiwiVXBkYXRlZEF0IjoiMDAwMS0wMS0wMVQwMDowMDowMFoiLCJOYW1lIjoiemFpZCJ9" />
+              <option name="bodyString" value="{&#10;  &quot;ID&quot;: &quot;5b6dfd7c-af2c-418c-b489-d02fdcb56391&quot;,&#10;  &quot;CreatedAt&quot;: &quot;2024-07-28T09:35:46.71538Z&quot;,&#10;  &quot;UpdatedAt&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;  &quot;Name&quot;: &quot;zaid&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 09:35:46 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="135" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="087929e6-558e-41e4-bade-d8c71ff12e20" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;ID&quot;:&quot;5b6dfd7c-af2c-418c-b489-d02fdcb56391&quot;,&quot;CreatedAt&quot;:&quot;2024-07-28T09:35:46.71538Z&quot;,&quot;UpdatedAt&quot;:&quot;0001-01-01T00:00:00Z&quot;,&quot;Name&quot;:&quot;zaid&quot;}" />
+              <option name="size" value="135" />
+              <option name="time" value="89" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722163640058" />
+          <option name="id" value="0248c657-fb7d-442c-8f16-bba279e29aae" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6ImNlMDU3ZjY3LTgyZDgtNDI3My05MDkwLWQ3OWRmNjE0ODgxNSIsImNyZWF0ZWRfYXQiOiIyMDI0LTA3LTI4VDEwOjQ3OjE5Ljk4NDU4M1oiLCJ1cGRhdGVkX2F0IjoiMDAwMS0wMS0wMVQwMDowMDowMFoiLCJuYW1lIjoiemFpZCJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;ce057f67-82d8-4273-9090-d79df6148815&quot;,&#10;  &quot;created_at&quot;: &quot;2024-07-28T10:47:19.984583Z&quot;,&#10;  &quot;updated_at&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;  &quot;name&quot;: &quot;zaid&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 10:47:20 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="138" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0248c657-fb7d-442c-8f16-bba279e29aae" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;ce057f67-82d8-4273-9090-d79df6148815&quot;,&quot;created_at&quot;:&quot;2024-07-28T10:47:19.984583Z&quot;,&quot;updated_at&quot;:&quot;0001-01-01T00:00:00Z&quot;,&quot;name&quot;:&quot;zaid&quot;}" />
+              <option name="size" value="138" />
+              <option name="time" value="74" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722163706073" />
+          <option name="id" value="aa9b588d-4612-4b3d-99fe-455c6481d4f5" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjliNWNjZTk5LTdkNWYtNDU5Mi04NjQ4LTY5NTg1ZTk5MWY0YyIsImNyZWF0ZWRfYXQiOiIyMDI0LTA3LTI4VDEwOjQ4OjI1Ljk5MDM0NloiLCJ1cGRhdGVkX2F0IjoiMDAwMS0wMS0wMVQwMDowMDowMFoiLCJuYW1lIjoiemFpZCIsImFwaV9rZXkiOiIwNGQwZDM1MmJjOTNjMmZmYWE4MTFjMmY1YmIxNTdmYjE3NzY0N2Y2ZjAyNzIzNjRkNTEyYzgxYmEzOGVlN2RkIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&#10;  &quot;created_at&quot;: &quot;2024-07-28T10:48:25.990346Z&quot;,&#10;  &quot;updated_at&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;  &quot;name&quot;: &quot;zaid&quot;,&#10;  &quot;api_key&quot;: &quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;&#10;}" />
+              <option name="code" value="201" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 10:48:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="215" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="aa9b588d-4612-4b3d-99fe-455c6481d4f5" />
+              <option name="message" value="Created" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&quot;created_at&quot;:&quot;2024-07-28T10:48:25.990346Z&quot;,&quot;updated_at&quot;:&quot;0001-01-01T00:00:00Z&quot;,&quot;name&quot;:&quot;zaid&quot;,&quot;api_key&quot;:&quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;}" />
+              <option name="size" value="215" />
+              <option name="time" value="89" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722163727506" />
+          <option name="id" value="193c780a-8ebf-42bf-bdd5-b7df6c39ce12" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Authorization" />
+                    <option name="value" value="04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJlcnJvciI6IkF1dGhvcml6YXRpb24gaGVhZGVyIGRvZXMgbm90IGNvbnRhaW4gdmFsaWQgYXV0aG9yaXphdGlvbiBoZWFkZXIifXsiZXJyb3IiOiJzcWw6IG5vIHJvd3MgaW4gcmVzdWx0IHNldCJ9" />
+              <option name="bodyString" value="{&#10;  &quot;error&quot;: &quot;Authorization header does not contain valid authorization header&quot;&#10;}" />
+              <option name="code" value="403" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 10:48:47 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="114" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="193c780a-8ebf-42bf-bdd5-b7df6c39ce12" />
+              <option name="message" value="Forbidden" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;error&quot;:&quot;Authorization header does not contain valid authorization header&quot;}{&quot;error&quot;:&quot;sql: no rows in result set&quot;}" />
+              <option name="size" value="114" />
+              <option name="time" value="19" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722163747644" />
+          <option name="id" value="4db6d8fd-2f6a-4e5e-86b3-64626b0d63a8" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Authorization" />
+                    <option name="value" value="ApiKey 04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjliNWNjZTk5LTdkNWYtNDU5Mi04NjQ4LTY5NTg1ZTk5MWY0YyIsImNyZWF0ZWRfYXQiOiIyMDI0LTA3LTI4VDEwOjQ4OjI1Ljk5MDM0NloiLCJ1cGRhdGVkX2F0IjoiMDAwMS0wMS0wMVQwMDowMDowMFoiLCJuYW1lIjoiemFpZCIsImFwaV9rZXkiOiIwNGQwZDM1MmJjOTNjMmZmYWE4MTFjMmY1YmIxNTdmYjE3NzY0N2Y2ZjAyNzIzNjRkNTEyYzgxYmEzOGVlN2RkIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&#10;  &quot;created_at&quot;: &quot;2024-07-28T10:48:25.990346Z&quot;,&#10;  &quot;updated_at&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;  &quot;name&quot;: &quot;zaid&quot;,&#10;  &quot;api_key&quot;: &quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 10:49:07 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="215" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4db6d8fd-2f6a-4e5e-86b3-64626b0d63a8" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&quot;created_at&quot;:&quot;2024-07-28T10:48:25.990346Z&quot;,&quot;updated_at&quot;:&quot;0001-01-01T00:00:00Z&quot;,&quot;name&quot;:&quot;zaid&quot;,&quot;api_key&quot;:&quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;}" />
+              <option name="size" value="215" />
+              <option name="time" value="9" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1722163750401" />
+          <option name="id" value="5a63a478-5890-44af-be92-b477595c5fcb" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Authorization" />
+                    <option name="value" value="ApiKey 04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/v1/user" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjliNWNjZTk5LTdkNWYtNDU5Mi04NjQ4LTY5NTg1ZTk5MWY0YyIsImNyZWF0ZWRfYXQiOiIyMDI0LTA3LTI4VDEwOjQ4OjI1Ljk5MDM0NloiLCJ1cGRhdGVkX2F0IjoiMDAwMS0wMS0wMVQwMDowMDowMFoiLCJuYW1lIjoiemFpZCIsImFwaV9rZXkiOiIwNGQwZDM1MmJjOTNjMmZmYWE4MTFjMmY1YmIxNTdmYjE3NzY0N2Y2ZjAyNzIzNjRkNTEyYzgxYmEzOGVlN2RkIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&#10;  &quot;created_at&quot;: &quot;2024-07-28T10:48:25.990346Z&quot;,&#10;  &quot;updated_at&quot;: &quot;0001-01-01T00:00:00Z&quot;,&#10;  &quot;name&quot;: &quot;zaid&quot;,&#10;  &quot;api_key&quot;: &quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sun, 28 Jul 2024 10:49:10 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="215" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5a63a478-5890-44af-be92-b477595c5fcb" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;9b5cce99-7d5f-4592-8648-69585e991f4c&quot;,&quot;created_at&quot;:&quot;2024-07-28T10:48:25.990346Z&quot;,&quot;updated_at&quot;:&quot;0001-01-01T00:00:00Z&quot;,&quot;name&quot;:&quot;zaid&quot;,&quot;api_key&quot;:&quot;04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd&quot;}" />
+              <option name="size" value="215" />
+              <option name="time" value="14" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
       </list>
     </option>
   </component>

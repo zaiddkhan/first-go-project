@@ -6,11 +6,29 @@
         <option name="requests">
           <list>
             <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot; : &quot;zaid&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Authorization" />
+                    <option name="value" value="ApiKey 04d0d352bc93c2ffaa811c2f5bb157fb177647f6f0272364d512c81ba38ee7dd" />
+                  </headerState>
+                </list>
+              </option>
               <option name="id" value="1790bc57-f30d-4835-87df-c623873dc419" />
               <option name="method" value="GET" />
               <option name="name" value="Draft" />
               <option name="sortWeight" value="1000000" />
-              <option name="url" value="http://localhost:8080/v1/healthz" />
+              <option name="url" value="http://localhost:8080/v1/user" />
             </requestState>
           </list>
         </option>
